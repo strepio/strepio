@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @strepio
-- 👀 I’m interested in web development.
+- 👀 I’m interested in web development and anything technology related.
 - 🌱 I’m currently learning HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me: send me a message.
